@@ -10,7 +10,7 @@ import {
 } from "agora-rtc-react";
 import React, { useState } from "react";
 
-import "./app.css";
+//import "./app.css";
 //import agoraLogo from "./agora-logo.svg";
 
 export const Basics = () => {
